@@ -5,4 +5,4 @@
 - 🤔 I’m looking for help with ***"How to learn CS well"***
 - 🤩 I like ***digital technology*** 📱, ***photography*** 📸
 - 💬 Ask me about ***anything*** 
-- 📫 My Email: **[AlayeVast@qq.com]**
+- 📫 My Email: **[AlayeVast@outlook.com]**
