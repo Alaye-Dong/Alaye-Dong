@@ -1,4 +1,4 @@
-### Hi, **I'am Alaye** .👋
+### Hi, **I'am Alaye** 👋
 
 - 📖 I’m currently studying ***CS*** 💻 in university
 - 🌱 I’m currently learning ***C，Java***
