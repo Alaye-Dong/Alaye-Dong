@@ -5,8 +5,6 @@
 - 🤔 I’m looking for help with ***"How to learn CS well"***
 - 🤩 I like ***digital technology*** 📱, ***photography*** 📸
 - 🖼️ My photographs page: **[[AlayeVast 500px](https://500px.com.cn/AlayeVast)]**
-- 💬 Ask me about ***anything*** 
-- 📫 My Email: **[AlayeVast@outlook.com]**
 - 📰 My blog site: **[https://alaye-dong.github.io/]**
 
 [![Alaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaye-Dong&custom_title=Alaye%20Dong`s%20GitHub%20stats&show_icons=true&rank_icon=percentile&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
