@@ -7,8 +7,16 @@
 - 🖼️ My photographs page: **[[AlayeVast 500px](https://500px.com.cn/AlayeVast)]**
 - 📰 My blog site: **[https://alaye-dong.github.io/]**
 
+<!--
 [![Alaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaye-Dong&custom_title=Alaye%20Dong`s%20GitHub%20stats&show_icons=true&rank_icon=percentile&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaye-Dong\&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alaye-Dong&custom_title=Alaye%20Dong`s%20GitHub%20stats&show_icons=true&rank_icon=percentile&theme=transparent&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaye-Dong&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+</a>
 
 <div style="display:none"> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong"/>
