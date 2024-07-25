@@ -8,15 +8,19 @@
 - 💬 Ask me about ***anything*** 
 - 📫 My Email: **[AlayeVast@outlook.com]**
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong"/>
+<div style="display:nobe"> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong"/>
+</div>
 
 <details>	
   <summary><b> ⌚ My WakaTime Stats </b></summary>
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2010%20mins-blue)
 
+<br />
+
+<!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-742.3%20thousand%20lines%20of%20code-blue)
 
