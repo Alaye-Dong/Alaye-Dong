@@ -10,6 +10,7 @@
 
 <details>	
   <summary><b> ⌚ My WakaTime Stats </b></summary>
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2010%20mins-blue)
 
