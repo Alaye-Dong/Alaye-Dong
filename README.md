@@ -12,10 +12,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaye-Dong\&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Alaye-Dong&custom_title=Alaye%20Dong`s%20GitHub%20stats&show_icons=true&rank_icon=percentile&theme=transparent&count_private=true" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Alaye-Dong&custom_title=Alaye%20Dong`s%20GitHub%20stats&show_icons=true&rank_icon=percentile&theme=transparent&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaye-Dong&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaye-Dong&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </a>
 
 <div style="display:none"> 
