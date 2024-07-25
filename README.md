@@ -8,6 +8,8 @@
 - 💬 Ask me about ***anything*** 
 - 📫 My Email: **[AlayeVast@outlook.com]**
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong&"  />
+
 <details>	
   <summary><b> ⌚ My WakaTime Stats </b></summary>
   
