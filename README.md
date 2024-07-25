@@ -8,7 +8,7 @@
 - 💬 Ask me about ***anything*** 
 - 📫 My Email: **[AlayeVast@outlook.com]**
 
-<div style="display:nobe"> 
+<div style="display:none"> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong"/>
 </div>
 
