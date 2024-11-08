@@ -1,4 +1,4 @@
-### Hi, **I'am Alaye** 👋
+### Hi, **I'am Dong DOnglai**, you can also call me **Alaye** 👋
 
 - 📖 I’m currently studying ***CS*** 💻 in university
 - 🌱 I’m currently learning ***Embedded Developing***, ***Web Developing***
