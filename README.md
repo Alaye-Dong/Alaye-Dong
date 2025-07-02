@@ -32,6 +32,8 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
@@ -40,12 +42,49 @@
 
 > 📦 89.9 kB Used in GitHub's Storage 
  > 
+> 🏆 240 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+🌆 Daytime                507 commits         ████████░░░░░░░░░░░░░░░░░   30.05 % 
+🌃 Evening                711 commits         ███████████░░░░░░░░░░░░░░   42.15 % 
+🌙 Night                  334 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Tuesday                  263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Wednesday                236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Thursday                 275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Friday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Saturday                 171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Sunday                   241 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               58 mins             █████████████████████████   99.89 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+🔥 Editors: 
+VS Code                  58 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+JXUT-BST-IO-VitePress-For58 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -63,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 18:51:38 UTC
+ Last Updated on 02/07/2025 18:52:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
