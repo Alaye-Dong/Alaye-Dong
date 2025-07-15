@@ -32,7 +32,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,13 +73,17 @@ Sunday                   241 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.14 % 
+TypeScript               2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.30 % 
+Vue.js                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+JXUT-BST-IO-VitePress-For5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +103,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 18:56:12 UTC
+ Last Updated on 15/07/2025 18:56:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
