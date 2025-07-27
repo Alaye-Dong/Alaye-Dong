@@ -42,8 +42,6 @@
 
 > 📦 89.9 kB Used in GitHub's Storage 
  > 
-> 🏆 254 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -109,7 +107,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2025 18:53:22 UTC
+ Last Updated on 27/07/2025 18:54:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
