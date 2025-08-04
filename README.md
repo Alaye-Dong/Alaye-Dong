@@ -32,7 +32,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,6 +41,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 89.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 254 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,13 +75,14 @@ Sunday                   241 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               13 mins             █████████████████████████   99.42 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blog-fuwari-astro        13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2025 18:54:08 UTC
+ Last Updated on 04/08/2025 18:58:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
