@@ -32,7 +32,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,8 +41,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 89.9 kB Used in GitHub's Storage 
- > 
-> 🏆 254 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,14 +73,16 @@ Sunday                   241 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 mins             █████████████████████████   99.42 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TypeScript               14 mins             ██████████████████░░░░░░░   71.17 % 
+Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog-fuwari-astro        13 mins             █████████████████████████   100.00 % 
+blog-fuwari-astro        20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -102,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 18:58:00 UTC
+ Last Updated on 05/08/2025 18:59:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
