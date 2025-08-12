@@ -32,7 +32,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,15 +73,13 @@ Sunday                   241 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 mins              █████████████████████░░░░   82.22 % 
-TypeScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript               9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog-fuwari-astro        6 mins              █████████████████████████   100.00 % 
+blog-fuwari-astro        9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -101,7 +99,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2025 18:56:25 UTC
+ Last Updated on 12/08/2025 18:54:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
