@@ -34,19 +34,21 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 89.9 kB Used in GitHub's Storage 
+> 📦 132.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 254 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -85,11 +87,11 @@ blog-fuwari-astro        9 mins              ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Java                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -99,7 +101,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2025 18:54:29 UTC
+ Last Updated on 15/08/2025 18:53:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
