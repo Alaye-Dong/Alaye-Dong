@@ -32,7 +32,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -41,8 +41,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 132.9 kB Used in GitHub's Storage 
- > 
-> 🏆 254 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,13 +73,19 @@ Sunday                   241 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 mins              █████████████████████████   100.00 % 
+SQL                      16 mins             ████████████████░░░░░░░░░   63.16 % 
+TypeScript               9 mins              █████████░░░░░░░░░░░░░░░░   36.37 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            16 mins             ████████████████░░░░░░░░░   63.63 % 
+VS Code                  9 mins              █████████░░░░░░░░░░░░░░░░   36.37 % 
 
 🐱‍💻 Projects: 
-blog-fuwari-astro        9 mins              █████████████████████████   100.00 % 
+RuoYi-Vue-Plus-Agri-Demo 16 mins             ████████████████░░░░░░░░░   63.63 % 
+blog-fuwari-astro        9 mins              █████████░░░░░░░░░░░░░░░░   36.37 % 
 ```
 
 **I Mostly Code in Java** 
@@ -101,7 +105,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2025 18:53:36 UTC
+ Last Updated on 16/08/2025 18:49:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
