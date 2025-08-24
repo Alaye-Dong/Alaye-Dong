@@ -22,21 +22,21 @@
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,java,html,css,js,ts,py,dart&perline=15)](https://github.com/LelouchFR/skill-icons)
 
-### Frameworks
+**Frameworks**
 
-[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=vue,nuxt,vite,astro,tailwindcss,spring,flutter&perline=15)](https://github.com/LelouchFR/skill-icons)
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=arduino,platformio,spring,vue,nuxt,astro,tailwindcss,flutter&perline=15)](https://github.com/LelouchFR/skill-icons)
 
-### Support tools
+**Tools**
 
-[![Support tools](https://go-skill-icons.vercel.app/api/icons?i=nginx,pnpm,docker,git,mysql,redis,prettier&perline=15)](https://github.com/LelouchFR/skill-icons)
+[![Support tools](https://go-skill-icons.vercel.app/api/icons?i=git,pnpm,vite,vitepress,pinia,anaconda,docker,nginx,mysql,redis&perline=15)](https://github.com/LelouchFR/skill-icons)
 
-### Platforms & Professional
+**Platforms & Professional**
 
-[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=windows,androidstudio,vscode,idea,pycharm,webstorm,ps,lr,davinci,vercel&perline=15)](https://github.com/LelouchFR/skill-icons)
+[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=windows,androidstudio,vscode,idea,pycharm,webstorm,ps,lr,davinci,canva,github,vercel&perline=15)](https://github.com/LelouchFR/skill-icons)
 
 <details>	
   <summary><h2> ⌚ My WakaTime Stats </b></summary>
