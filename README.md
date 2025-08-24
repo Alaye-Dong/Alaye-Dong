@@ -1,4 +1,6 @@
-### Hi, **I'am Alaye Dong**, you can also call me **Alaye** 👋
+# Hi, **I'am Alaye Dong**👋<img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong"/>
+
+## About Me
 
 - 📖 I’m currently studying ***CS*** 💻 in university
 - 🌱 I’m currently learning ***Embedded Developing***, ***Web Developing***
@@ -18,18 +20,26 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaye-Dong&layout=compact&theme=transparent&include_all_commits=true&count_private=true&langs_count=8&card_width=300" />
 </a>
 
-<br />
-<br />
+## Tech Stack
 
-<div style="display:none"> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong"/>
-</div>
-<br />
+### Languages
+
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,java,html,css,js,ts,py,dart&perline=15)](https://github.com/LelouchFR/skill-icons)
+
+### Frameworks
+
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=vue,nuxt,vite,astro,tailwindcss,spring,flutter&perline=15)](https://github.com/LelouchFR/skill-icons)
+
+### Support tools
+
+[![Support tools](https://go-skill-icons.vercel.app/api/icons?i=nginx,pnpm,docker,git,mysql,redis,prettier&perline=15)](https://github.com/LelouchFR/skill-icons)
+
+### Platforms & Professional
+
+[![Softwares](https://go-skill-icons.vercel.app/api/icons?i=windows,androidstudio,vscode,idea,pycharm,webstorm,ps,lr,davinci,vercel&perline=15)](https://github.com/LelouchFR/skill-icons)
 
 <details>	
-  <summary><b> ⌚ My WakaTime Stats </b></summary>
-
-<br />
+  <summary><h2> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2059%20mins-blue)
