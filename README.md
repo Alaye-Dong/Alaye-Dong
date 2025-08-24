@@ -1,6 +1,4 @@
-# Hi, **I'am Alaye Dong**👋<img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong"/>
-
-## About Me
+## Hi, **I'am Alaye Dong**👋<img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong"/>
 
 - 📖 I’m currently studying ***CS*** 💻 in university
 - 🌱 I’m currently learning ***Embedded Developing***, ***Web Developing***
@@ -20,7 +18,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaye-Dong&layout=compact&theme=transparent&include_all_commits=true&count_private=true&langs_count=8&card_width=300" />
 </a>
 
-## Tech Stack
+## My Skills
 
 **Languages**
 
