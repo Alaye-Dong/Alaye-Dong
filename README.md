@@ -42,7 +42,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -92,12 +92,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in TypeScript** 
 
 ```text
+TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
@@ -109,7 +109,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2025 18:52:46 UTC
+ Last Updated on 27/11/2025 18:50:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
