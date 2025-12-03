@@ -40,9 +40,9 @@
   <summary><h2> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -83,13 +83,15 @@ Sunday                   259 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Astro                    5 mins              █████████████████████████   100.00 % 
+Astro                    5 mins              ███████████████████░░░░░░   77.15 % 
+Vue.js                   1 min               ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog-fuwari-astro        5 mins              █████████████████████████   100.00 % 
+blog-fuwari-astro        5 mins              ███████████████████░░░░░░   77.15 % 
+JXUT-BST-IO-VitePress-For1 min               ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +111,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2025 18:58:01 UTC
+ Last Updated on 03/12/2025 18:55:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
