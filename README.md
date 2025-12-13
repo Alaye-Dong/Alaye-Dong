@@ -40,7 +40,7 @@
   <summary><h2> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -83,13 +83,19 @@ Sunday                   259 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     15 mins             ███████████████░░░░░░░░░░   59.58 % 
+Python                   10 mins             ██████████░░░░░░░░░░░░░░░   39.01 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            15 mins             ███████████████░░░░░░░░░░   60.99 % 
+PyCharm                  10 mins             ██████████░░░░░░░░░░░░░░░   39.01 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+edu-sys                  15 mins             ███████████████░░░░░░░░░░   60.99 % 
+ExpProject               10 mins             ██████████░░░░░░░░░░░░░░░   39.01 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +115,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 18:55:56 UTC
+ Last Updated on 13/12/2025 18:49:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
