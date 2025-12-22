@@ -40,7 +40,7 @@
   <summary><h2> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -48,7 +48,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 133.9 kB Used in GitHub's Storage 
+> 📦 146.6 kB Used in GitHub's Storage 
  > 
 > 🏆 436 Contributions in the Year 2025
  > 
@@ -56,7 +56,7 @@
  > 
 > 📜 35 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -83,23 +83,23 @@ Sunday                   259 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+JXUT-BST-IO-VitePress-For8 mins              █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Java                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Java                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -109,7 +109,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2025 18:51:30 UTC
+ Last Updated on 22/12/2025 18:55:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
