@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.19%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.20%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 147.1 kB Used in GitHub's Storage 
+> 📦 147.3 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -59,11 +59,11 @@
 **I Mostly Code in Java** 
 
 ```text
-Java                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Java                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
@@ -73,7 +73,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 18:54:07 UTC
+ Last Updated on 03/01/2026 18:52:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
