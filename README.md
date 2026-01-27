@@ -19,7 +19,8 @@
 </a>
 
 <details>	
-  <summary><h2> 💪 My Skills </b></summary>
+  <summary><h3> 💪 My Skills </b></summary>
+
 **Languages**
 
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,java,html,css,js,ts,py,dart&perline=15)](https://github.com/LelouchFR/skill-icons)
@@ -38,7 +39,7 @@
 </details>
 
 <details>	
-  <summary><h2> ⌚ My WakaTime Stats </b></summary>
+  <summary><h3> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2058%20mins-blue?style=flat)
