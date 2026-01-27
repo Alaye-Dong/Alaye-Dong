@@ -18,8 +18,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaye-Dong&layout=compact&theme=transparent&include_all_commits=true&count_private=true&langs_count=8&card_width=300" />
 </a>
 
-## My Skills
-
+<details>	
+  <summary><h2> 💪 My Skills </b></summary>
 **Languages**
 
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,java,html,css,js,ts,py,dart&perline=15)](https://github.com/LelouchFR/skill-icons)
@@ -35,6 +35,7 @@
 **Platforms & Professional**
 
 [![Softwares](https://go-skill-icons.vercel.app/api/icons?i=windows,androidstudio,vscode,idea,pycharm,webstorm,ps,lr,davinci,canva,github,vercel&perline=15)](https://github.com/LelouchFR/skill-icons)
+</details>
 
 <details>	
   <summary><h2> ⌚ My WakaTime Stats </b></summary>
