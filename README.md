@@ -17,9 +17,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaye-Dong&layout=compact&theme=transparent&include_all_commits=true&count_private=true&langs_count=8&card_width=300" />
 </a>
-
+<br/>
 <details>	
-  <summary><h3> 💪 My Skills </b></summary>
+  <summary><b> 💪 My Skills </b></summary>
 
 **Languages**
 
@@ -39,7 +39,7 @@
 </details>
 
 <details>	
-  <summary><h3> ⌚ My WakaTime Stats </b></summary>
+  <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2058%20mins-blue?style=flat)
