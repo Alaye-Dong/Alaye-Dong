@@ -1,8 +1,9 @@
-## Hi, **I'am Alaye Dong**👋<img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong"/>
+## Hi, **I'm Alaye Dong**👋<img src="https://visitor-badge.laobi.icu/badge?page_id=Alaye-Dong.Alaye-Dong"/>
 
-- 📖 I’m currently studying ***CS*** 💻 in university
-- 🌱 I’m currently learning ***Embedded Developing***, ***Web Developing***
-- 🤔 I’m looking for help with ***"How to learn CS well"***
+- 💼 I'm currently **looking for new opportunities** (Full-stack / Agent Developer)
+- 🎓 I recently graduated with a degree in ***CS*** 💻
+- 🌱 I’m currently learning ***Agent Engineering***, ***Web Developing***
+- 🤔 I’m looking for help with ***"How to learn Agent well"***
 - 🤩 I like ***digital technology*** 📱, ***photography*** 📸
 - 🖼️ My photographs page: **[AlayeVast 500px](https://500px.com.cn/AlayeVast)**
 - 📰 My blog site: **https://blog.alayedong.cn**
