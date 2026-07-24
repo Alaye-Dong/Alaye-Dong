@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -59,57 +59,14 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-🌆 Daytime                1103 commits        ██████████░░░░░░░░░░░░░░░   39.18 % 
-🌃 Evening                1101 commits        ██████████░░░░░░░░░░░░░░░   39.11 % 
-🌙 Night                  335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   508 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Tuesday                  489 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Wednesday                374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Thursday                 454 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Friday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Saturday                 271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Sunday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 15 hrs 44 mins      ██████████████░░░░░░░░░░░   56.13 % 
-JSON                     3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Other                    3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Git Config               2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Python                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-
-🔥 Editors: 
-VS Code                  27 hrs 39 mins      █████████████████████████   98.58 % 
-Opencode Cli             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-
-🐱‍💻 Projects: 
-AionClawHub              18 hrs 58 mins      █████████████████░░░░░░░░   67.63 % 
-service                  7 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-1                        18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-ag0615002-qyb0625003-ag0713 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-diao                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
@@ -119,7 +76,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:59:15 UTC
+ Last Updated on 24/07/2026 19:59:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
