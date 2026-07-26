@@ -43,7 +43,7 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C212%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C217%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,22 +86,22 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 hrs 25 mins      █████████████░░░░░░░░░░░░   51.97 % 
-JSON                     4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Other                    3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Git Config               2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Python                   1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Markdown                 17 hrs 13 mins      █████████████░░░░░░░░░░░░   50.31 % 
+JSON                     4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Other                    3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+TypeScript               3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Git Config               2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 16 mins      █████████████████████████   98.66 % 
-Opencode Cli             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+VS Code                  33 hrs 50 mins      █████████████████████████   98.84 % 
+Opencode Cli             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🐱‍💻 Projects: 
-AionClawHub              20 hrs 12 mins      █████████████████░░░░░░░░   68.10 % 
-service                  7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-1                        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-cloud                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-ag0615002-qyb0625003-ag0713 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+AionClawHub              20 hrs 33 mins      ███████████████░░░░░░░░░░   60.06 % 
+service                  12 hrs 1 min        █████████░░░░░░░░░░░░░░░░   35.11 % 
+1                        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+cloud                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+ag0615002-qyb0625003-ag0713 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +121,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:46:36 UTC
+ Last Updated on 26/07/2026 19:47:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
