@@ -43,7 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C217%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C192%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-198%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -86,22 +88,48 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 hrs 13 mins      █████████████░░░░░░░░░░░░   50.31 % 
-JSON                     4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Other                    3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-TypeScript               3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Git Config               2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Markdown                 14 hrs 33 mins      ███████████░░░░░░░░░░░░░░   44.23 % 
+TypeScript               6 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+JSON                     4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Other                    3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Git Config               2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 50 mins      █████████████████████████   98.84 % 
-Opencode Cli             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+VS Code                  32 hrs 40 mins      █████████████████████████   99.23 % 
+Opencode Cli             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🐱‍💻 Projects: 
-AionClawHub              20 hrs 33 mins      ███████████████░░░░░░░░░░   60.06 % 
-service                  12 hrs 1 min        █████████░░░░░░░░░░░░░░░░   35.11 % 
-1                        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-cloud                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-ag0615002-qyb0625003-ag0713 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+AionClawHub              16 hrs 48 mins      █████████████░░░░░░░░░░░░   51.04 % 
+service                  14 hrs 49 mins      ███████████░░░░░░░░░░░░░░   45.04 % 
+cloud                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+ag0615002-qyb0625003-ag0713 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+diao                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 22 mins (77.07%)
+
+✍️ 5,211 lines written by AI, 416 lines written by hand (92.61% AI-written)
+
+🔤 331,310,271 Input Tokens, 1,699,455 Output Tokens
+
+💵 $1193.78 Estimated AI Cost This Week
+
+🧠 107 AI Sessions, 357 AI Prompts
+
+GPT                      4,856 lines         ███████████████████████░░   93.06 % 
+Glm                      229 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Github-Copilot           91 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+K                        42 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 92.61% of written lines came from AI
+📚 Verbose Prompter — average 8,041 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 7.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +149,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:47:09 UTC
+ Last Updated on 27/07/2026 20:08:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
