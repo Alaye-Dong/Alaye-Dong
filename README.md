@@ -88,48 +88,48 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.50 % 
-Markdown                 8 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.54 % 
-JSON                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Git Config               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Markdown                 9 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
+TypeScript               8 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
+Other                    3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+CSV                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 27 mins      ███████████████████████░░   91.96 % 
-Claude Code              1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+VS Code                  21 hrs 55 mins      ███████████████████████░░   92.12 % 
+Claude Code              1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 🐱‍💻 Projects: 
-service                  18 hrs 28 mins      ████████████████████░░░░░   79.18 % 
-AionClawHub              3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-JXUT-BST-IO-VitePress-For47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-cloud                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-alaye.dong               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+service                  19 hrs 5 mins       ████████████████████░░░░░   80.21 % 
+AionClawHub              1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+JXUT-BST-IO-VitePress-For47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+cloud                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+龙虾日志                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 33 mins (88.12%)
+⏱ AI Coding Time: 21 hrs 50 mins (91.75%)
 
-✍️ 2,429 lines written by AI, 357 lines written by hand (87.19% AI-written)
+✍️ 2,702 lines written by AI, 107 lines written by hand (96.19% AI-written)
 
-🔤 249,430,007 Input Tokens, 784,105 Output Tokens
+🔤 369,909,748 Input Tokens, 1,876,335 Output Tokens
 
-💵 $1017.42 Estimated AI Cost This Week
+💵 $1373.14 Estimated AI Cost This Week
 
-🧠 102 AI Sessions, 399 AI Prompts
+🧠 154 AI Sessions, 483 AI Prompts
 
-Sonnet                   1,287 lines         ████████████░░░░░░░░░░░░░   49.40 % 
-GPT                      1,141 lines         ███████████░░░░░░░░░░░░░░   43.80 % 
-Github-Copilot           91 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Haiku                    82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Deepseek                 4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+GPT                      1,546 lines         █████████████░░░░░░░░░░░░   52.96 % 
+Sonnet                   1,287 lines         ███████████░░░░░░░░░░░░░░   44.09 % 
+Haiku                    82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Deepseek                 4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.19% of written lines came from AI
-📚 Verbose Prompter — average 9,705 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.53% of changed lines were hand-edited
+🤖 AI-Driven — 96.19% of written lines came from AI
+📚 Verbose Prompter — average 11,056 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 4.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:46:30 UTC
+ Last Updated on 04/08/2026 20:13:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
