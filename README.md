@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C222%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,48 +88,48 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
-TypeScript               8 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
-Other                    3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-CSV                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Markdown                 9 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
+Other                    8 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.23 % 
+TypeScript               6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+CSV                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 55 mins      ███████████████████████░░   92.12 % 
-Claude Code              1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+VS Code                  25 hrs              ████████████████████████░   94.91 % 
+Claude Code              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🐱‍💻 Projects: 
-service                  19 hrs 5 mins       ████████████████████░░░░░   80.21 % 
-AionClawHub              1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JXUT-BST-IO-VitePress-For47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-cloud                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-龙虾日志                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+service                  19 hrs 3 mins       ██████████████████░░░░░░░   72.33 % 
+cloud                    3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+AionClawHub              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JXUT-BST-IO-VitePress-For47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+龙虾日志                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 50 mins (91.75%)
+⏱ AI Coding Time: 24 hrs 22 mins (92.47%)
 
-✍️ 2,702 lines written by AI, 107 lines written by hand (96.19% AI-written)
+✍️ 2,245 lines written by AI, 67 lines written by hand (97.1% AI-written)
 
-🔤 369,909,748 Input Tokens, 1,876,335 Output Tokens
+🔤 492,454,502 Input Tokens, 2,741,816 Output Tokens
 
-💵 $1373.14 Estimated AI Cost This Week
+💵 $1732.90 Estimated AI Cost This Week
 
-🧠 154 AI Sessions, 483 AI Prompts
+🧠 166 AI Sessions, 556 AI Prompts
 
-GPT                      1,546 lines         █████████████░░░░░░░░░░░░   52.96 % 
-Sonnet                   1,287 lines         ███████████░░░░░░░░░░░░░░   44.09 % 
-Haiku                    82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Deepseek                 4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Sonnet                   1,137 lines         ████████████░░░░░░░░░░░░░   48.97 % 
+GPT                      1,099 lines         ████████████░░░░░░░░░░░░░   47.33 % 
+Haiku                    82 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Deepseek                 4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.19% of written lines came from AI
-📚 Verbose Prompter — average 11,056 characters per prompt
+🤖 AI-Driven — 97.1% of written lines came from AI
+📚 Verbose Prompter — average 10,055 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.98% of changed lines were hand-edited
+🚀 High AI Trust — 4.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:13:15 UTC
+ Last Updated on 05/08/2026 20:12:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
