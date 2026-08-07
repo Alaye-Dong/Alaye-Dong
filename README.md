@@ -43,6 +43,10 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2034%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue?style=flat)
@@ -59,6 +63,72 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+🌆 Daytime                1087 commits        ██████████░░░░░░░░░░░░░░░   38.95 % 
+🌃 Evening                1107 commits        ██████████░░░░░░░░░░░░░░░   39.66 % 
+🌙 Night                  335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   508 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Tuesday                  472 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Wednesday                366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Thursday                 449 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Friday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Saturday                 277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Sunday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    12 hrs 54 mins      ███████████░░░░░░░░░░░░░░   44.70 % 
+Markdown                 10 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   35.54 % 
+TypeScript               4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+
+🔥 Editors: 
+VS Code                  28 hrs 52 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+service                  21 hrs 12 mins      ██████████████████░░░░░░░   73.44 % 
+cloud                    3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+JXUT-BST-IO-VitePress-For47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+龙虾日志                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 27 hrs 17 mins (94.47%)
+
+✍️ 762 lines written by AI, 4 lines written by hand (99.48% AI-written)
+
+🔤 479,865,179 Input Tokens, 3,558,459 Output Tokens
+
+💵 $1826.36 Estimated AI Cost This Week
+
+🧠 187 AI Sessions, 658 AI Prompts
+
+GPT                      590 lines           ██████████████████░░░░░░░   72.93 % 
+Deepseek                 219 lines           ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.48% of written lines came from AI
+📚 Verbose Prompter — average 10,128 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.49% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -76,7 +146,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:27:43 UTC
+ Last Updated on 07/08/2026 19:33:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
