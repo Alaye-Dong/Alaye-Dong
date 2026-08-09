@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C229%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C231%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,45 +88,45 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 54 mins      ███████████░░░░░░░░░░░░░░   44.70 % 
-Markdown                 10 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   35.54 % 
-TypeScript               4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Other                    15 hrs 59 mins      ████████████░░░░░░░░░░░░░   48.06 % 
+Markdown                 11 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
+TypeScript               5 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-service                  21 hrs 12 mins      ██████████████████░░░░░░░   73.44 % 
-cloud                    3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-JXUT-BST-IO-VitePress-For47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-龙虾日志                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+service                  26 hrs 4 mins       ████████████████████░░░░░   78.37 % 
+cloud                    3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+AionClawHub              41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Unknown Project          35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+龙虾日志                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 17 mins (94.47%)
+⏱ AI Coding Time: 32 hrs 9 mins (96.64%)
 
-✍️ 762 lines written by AI, 4 lines written by hand (99.48% AI-written)
+✍️ 758 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 479,865,179 Input Tokens, 3,558,459 Output Tokens
+🔤 480,311,458 Input Tokens, 3,739,235 Output Tokens
 
-💵 $1826.36 Estimated AI Cost This Week
+💵 $1847.20 Estimated AI Cost This Week
 
-🧠 187 AI Sessions, 658 AI Prompts
+🧠 198 AI Sessions, 763 AI Prompts
 
-GPT                      590 lines           ██████████████████░░░░░░░   72.93 % 
-Deepseek                 219 lines           ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+GPT                      590 lines           ██████████████████░░░░░░░   73.29 % 
+Deepseek                 215 lines           ███████░░░░░░░░░░░░░░░░░░   26.71 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📚 Verbose Prompter — average 10,128 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 10,167 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.49% of changed lines were hand-edited
+🚀 High AI Trust — 4.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +146,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:11:30 UTC
+ Last Updated on 09/08/2026 19:15:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
