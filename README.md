@@ -88,45 +88,47 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 59 mins      ████████████░░░░░░░░░░░░░   48.06 % 
-Markdown                 11 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
-TypeScript               5 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Other                    18 hrs 10 mins      █████████████░░░░░░░░░░░░   52.10 % 
+Markdown                 11 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
+TypeScript               4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 31 mins      █████████████████████████   98.97 % 
+Codex Vscode             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🐱‍💻 Projects: 
-service                  26 hrs 4 mins       ████████████████████░░░░░   78.37 % 
-cloud                    3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-AionClawHub              41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Unknown Project          35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-龙虾日志                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+service                  25 hrs 2 mins       ██████████████████░░░░░░░   71.79 % 
+cloud                    5 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+AionClawHub              41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Unknown Project          35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+龙虾日志                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 9 mins (96.64%)
+⏱ AI Coding Time: 33 hrs 33 mins (96.17%)
 
-✍️ 758 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 782 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 480,311,458 Input Tokens, 3,739,235 Output Tokens
+🔤 389,673,055 Input Tokens, 3,710,253 Output Tokens
 
-💵 $1847.20 Estimated AI Cost This Week
+💵 $1862.47 Estimated AI Cost This Week
 
-🧠 198 AI Sessions, 763 AI Prompts
+🧠 183 AI Sessions, 896 AI Prompts
 
-GPT                      590 lines           ██████████████████░░░░░░░   73.29 % 
-Deepseek                 215 lines           ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+Deepseek                 481 lines           ███████████████░░░░░░░░░░   61.12 % 
+GPT                      306 lines           ██████████░░░░░░░░░░░░░░░   38.88 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,167 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.28% of changed lines were hand-edited
+📚 Verbose Prompter — average 8,461 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 4.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +148,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:15:13 UTC
+ Last Updated on 10/08/2026 19:35:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
