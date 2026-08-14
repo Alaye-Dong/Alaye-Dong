@@ -49,7 +49,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.63%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -66,21 +66,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-🌆 Daytime                1087 commits        ██████████░░░░░░░░░░░░░░░   38.95 % 
-🌃 Evening                1107 commits        ██████████░░░░░░░░░░░░░░░   39.66 % 
-🌙 Night                  335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+🌞 Morning                274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+🌆 Daytime                1148 commits        ██████████░░░░░░░░░░░░░░░   40.08 % 
+🌃 Evening                1107 commits        ██████████░░░░░░░░░░░░░░░   38.65 % 
+🌙 Night                  335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   508 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Tuesday                  472 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Wednesday                366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Thursday                 449 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Friday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Saturday                 277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Sunday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Monday                   543 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Tuesday                  482 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Wednesday                366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Thursday                 477 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Friday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Saturday                 277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Sunday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 ```
 
 
@@ -88,47 +88,47 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs              ████████████░░░░░░░░░░░░░   46.63 % 
-Markdown                 11 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   36.28 % 
-TypeScript               2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Python                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Other                    13 hrs 29 mins      █████████████░░░░░░░░░░░░   51.44 % 
+Markdown                 7 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+TypeScript               2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Python                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 23 mins      ████████████████████████░   97.56 % 
-Codex Vscode             47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+VS Code                  25 hrs              ████████████████████████░   95.31 % 
+Codex Vscode             1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🐱‍💻 Projects: 
-service                  23 hrs 34 mins      ██████████████████░░░░░░░   73.25 % 
-cloud                    5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-aionclaw-logs-20260812-0936 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-AionClawHub              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-aionclaw-logs-20260806-2121 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+service                  15 hrs 44 mins      ███████████████░░░░░░░░░░   59.99 % 
+cloud                    8 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.70 % 
+admin                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+aionclaw-logs-20260812-0936 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+hi-3                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 36 mins (95.1%)
+⏱ AI Coding Time: 24 hrs 50 mins (94.67%)
 
-✍️ 965 lines written by AI, 3 lines written by hand (99.69% AI-written)
+✍️ 750 lines written by AI, 3 lines written by hand (99.6% AI-written)
 
-🔤 100,752,959 Input Tokens, 3,033,523 Output Tokens
+🔤 11,897,208 Input Tokens, 2,295,518 Output Tokens
 
-💵 $1788.46 Estimated AI Cost This Week
+💵 $1425.74 Estimated AI Cost This Week
 
-🧠 149 AI Sessions, 821 AI Prompts
+🧠 113 AI Sessions, 748 AI Prompts
 
-Deepseek                 747 lines           ███████████████████░░░░░░   77.17 % 
-GPT                      221 lines           ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Deepseek                 532 lines           ██████████████████░░░░░░░   70.65 % 
+GPT                      221 lines           ███████░░░░░░░░░░░░░░░░░░   29.35 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📚 Verbose Prompter — average 8,777 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.41% of changed lines were hand-edited
+🤖 AI-Driven — 99.6% of written lines came from AI
+📚 Verbose Prompter — average 8,050 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:38:28 UTC
+ Last Updated on 14/08/2026 19:32:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
