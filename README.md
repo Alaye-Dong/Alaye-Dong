@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C249%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C250%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-272%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-273%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,48 +88,48 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 30 mins       ███████████████░░░░░░░░░░   59.43 % 
-Other                    4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.87 % 
-JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Markdown                 7 hrs 57 mins       █████████████████████░░░░   82.45 % 
+JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 49 mins      ███████████████████████░░   93.52 % 
-Codex Vscode             47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  8 hrs 48 mins       ███████████████████████░░   91.19 % 
+Codex Vscode             48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-yingdao-work-os          7 hrs 13 mins       ██████████████░░░░░░░░░░░   57.10 % 
-cloud                    3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-work-os                  1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-admin                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-hi-3                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+yingdao-work-os          8 hrs 8 mins        █████████████████████░░░░   84.33 % 
+work-os                  1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+xi                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+aigri-backend            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+python_work              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 46 mins (53.53%)
+⏱ AI Coding Time: 3 hrs 30 mins (36.25%)
 
-✍️ 830 lines written by AI, 1,554 lines written by hand (34.82% AI-written)
+✍️ 1,086 lines written by AI, 1,557 lines written by hand (41.09% AI-written)
 
-🔤 3,684,592 Input Tokens, 483,865 Output Tokens
+🔤 3,329,390 Input Tokens, 294,586 Output Tokens
 
-💵 $239.18 Estimated AI Cost This Week
+💵 $67.68 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 165 AI Prompts
+🧠 20 AI Sessions, 59 AI Prompts
 
-Deepseek                 830 lines           █████████████████████████   100.00 % 
+Deepseek                 830 lines           ███████████████████░░░░░░   75.45 % 
+GPT                      270 lines           ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.82% of written lines came from AI
-📚 Verbose Prompter — average 4,068 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 65.56% of changed lines were hand-edited
+⚖️ Balanced with AI — 41.09% of written lines came from AI
+📚 Verbose Prompter — average 2,939 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 59.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:10:18 UTC
+ Last Updated on 22/08/2026 19:01:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
