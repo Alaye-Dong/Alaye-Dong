@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C252%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C255%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-275%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-277%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,45 +88,43 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 19 mins       ███████████████░░░░░░░░░░   59.56 % 
-Git Config               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Python                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Markdown                 5 hrs 24 mins       █████████████░░░░░░░░░░░░   51.57 % 
+Python                   2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+JSON                     1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Git Config               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 48 mins       █████████████░░░░░░░░░░░░   52.44 % 
-Codex Vscode             3 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.56 % 
+Codex Vscode             7 hrs 9 mins        █████████████████░░░░░░░░   68.23 % 
+VS Code                  3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
 
 🐱‍💻 Projects: 
-yingdao-work-os          4 hrs 1 min         ██████████████░░░░░░░░░░░   55.51 % 
-manuscript-collection    2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.91 % 
-new-chat                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-xi                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+manuscript-collection    6 hrs 37 mins       ████████████████░░░░░░░░░   63.12 % 
+yingdao-work-os          3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.36 % 
+new-chat                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 8 mins (70.92%)
+⏱ AI Coding Time: 9 hrs 21 mins (89.22%)
 
-✍️ 5,233 lines written by AI, 56 lines written by hand (98.94% AI-written)
+✍️ 7,255 lines written by AI, 51 lines written by hand (99.3% AI-written)
 
-🔤 4,247,482 Input Tokens, 345,837 Output Tokens
+🔤 7,262,258 Input Tokens, 670,389 Output Tokens
 
-💵 $15.90 Estimated AI Cost This Week
+💵 $27.59 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 85 AI Prompts
+🧠 34 AI Sessions, 120 AI Prompts
 
-GPT                      5,278 lines         █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      7,383 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.94% of written lines came from AI
-📚 Verbose Prompter — average 3,333 characters per prompt
+🤖 AI-Driven — 99.3% of written lines came from AI
+📚 Verbose Prompter — average 2,115 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.62% of changed lines were hand-edited
+🚀 High AI Trust — 1.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +144,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:41:41 UTC
+ Last Updated on 28/08/2026 02:20:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
