@@ -88,45 +88,45 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.63 % 
-Python                   2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-JSON                     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Git Config               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Markdown                 4 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.56 % 
+Python                   2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+JSON                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Git Config               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 59 mins       ██████████████████░░░░░░░   73.87 % 
-VS Code                  2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Codex Vscode             8 hrs 1 min         ███████████████████░░░░░░   75.88 % 
+VS Code                  2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
 
 🐱‍💻 Projects: 
-manuscript-collection    7 hrs 50 mins       ██████████████████░░░░░░░   72.62 % 
-yingdao-work-os          2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-new-chat                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-https-my-feishu-cn-wiki-y0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-shu-c                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+manuscript-collection    7 hrs 36 mins       ██████████████████░░░░░░░   71.85 % 
+yingdao-work-os          2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+1-2-3-4                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+dui                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+ni-k                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs (92.67%)
+⏱ AI Coding Time: 10 hrs (94.61%)
 
-✍️ 7,863 lines written by AI, 48 lines written by hand (99.39% AI-written)
+✍️ 6,775 lines written by AI, 48 lines written by hand (99.3% AI-written)
 
-🔤 8,510,283 Input Tokens, 744,124 Output Tokens
+🔤 8,993,611 Input Tokens, 762,000 Output Tokens
 
-💵 $34.82 Estimated AI Cost This Week
+💵 $36.62 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 120 AI Prompts
+🧠 37 AI Sessions, 122 AI Prompts
 
-GPT                      7,979 lines         █████████████████████████   100.00 % 
+GPT                      6,871 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.39% of written lines came from AI
-📚 Verbose Prompter — average 1,767 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.3% of written lines came from AI
+📚 Verbose Prompter — average 1,742 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +146,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:27:05 UTC
+ Last Updated on 31/08/2026 23:02:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
