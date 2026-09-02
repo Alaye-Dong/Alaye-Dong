@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-283%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-284%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -88,45 +88,45 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.14 % 
-Python                   2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-JSON                     2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Markdown                 3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
+JSON                     1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Python                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Other                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 1 min         ███████████████████░░░░░░   74.83 % 
-VS Code                  2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Codex Vscode             6 hrs 45 mins       █████████████████████░░░░   83.25 % 
+VS Code                  1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 
 🐱‍💻 Projects: 
-manuscript-collection    7 hrs               ███████████████████░░░░░░   74.69 % 
-yingdao-work-os          1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-xhs-comment-inspection   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-1-2-3-4                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-dui                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+manuscript-collection    5 hrs 6 mins        ████████████████░░░░░░░░░   63.01 % 
+yingdao-work-os          1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+xhs-comment-inspection   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+xhs-idea-strategy-agents 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+1-2-3-4                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 52 mins (94.61%)
+⏱ AI Coding Time: 7 hrs 41 mins (94.89%)
 
-✍️ 4,903 lines written by AI, 46 lines written by hand (99.07% AI-written)
+✍️ 3,631 lines written by AI, 44 lines written by hand (98.8% AI-written)
 
-🔤 8,362,162 Input Tokens, 684,198 Output Tokens
+🔤 7,286,391 Input Tokens, 668,313 Output Tokens
 
-💵 $34.17 Estimated AI Cost This Week
+💵 $32.23 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 110 AI Prompts
+🧠 33 AI Sessions, 97 AI Prompts
 
-GPT                      4,999 lines         █████████████████████████   100.00 % 
+GPT                      3,716 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.07% of written lines came from AI
-📚 Verbose Prompter — average 1,908 characters per prompt
+🤖 AI-Driven — 98.8% of written lines came from AI
+📝 Concise Prompter — average 487 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.17% of changed lines were hand-edited
+🚀 High AI Trust — 1.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +146,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:17:04 UTC
+ Last Updated on 02/09/2026 21:16:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
