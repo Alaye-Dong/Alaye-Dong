@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C267%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-285%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-289%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -88,46 +88,46 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 30 mins       ██████████████░░░░░░░░░░░   54.52 % 
-Other                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-TOML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Markdown                 5 hrs 35 mins       ██████████████░░░░░░░░░░░   55.71 % 
+Other                    2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+TOML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 17 mins       ████████████████░░░░░░░░░   64.17 % 
-VS Code                  2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.83 % 
+Codex Vscode             5 hrs 40 mins       ██████████████░░░░░░░░░░░   56.66 % 
+VS Code                  4 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.34 % 
 
 🐱‍💻 Projects: 
-xhs-idea-strategy-agents 3 hrs               █████████░░░░░░░░░░░░░░░░   36.51 % 
-xhs-comment-inspection   2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
-manuscript-collection    1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-yingdao-work-os          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-1-2-3-4                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+xhs-comment-inspection   4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
+xhs-idea-strategy-agents 3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.50 % 
+users-alaye-projects-buxi33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+yingdao-work-os          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+manuscript-collection    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 42 mins (93.4%)
+⏱ AI Coding Time: 9 hrs 8 mins (91.23%)
 
-✍️ 2,095 lines written by AI, 116 lines written by hand (94.75% AI-written)
+✍️ 1,590 lines written by AI, 131 lines written by hand (92.39% AI-written)
 
-🔤 7,156,259 Input Tokens, 490,827 Output Tokens
+🔤 12,619,109 Input Tokens, 702,721 Output Tokens
 
-💵 $60.22 Estimated AI Cost This Week
+💵 $164.29 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 112 AI Prompts
+🧠 31 AI Sessions, 126 AI Prompts
 
-GPT                      2,032 lines         █████████████████████████   99.71 % 
-Glm                      6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+GPT                      1,585 lines         █████████████████████████   99.62 % 
+Glm                      6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.75% of written lines came from AI
-📝 Concise Prompter — average 402 characters per prompt
+🤖 AI-Driven — 92.39% of written lines came from AI
+📝 Concise Prompter — average 393 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.28% of changed lines were hand-edited
+🚀 High AI Trust — 7.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:17:47 UTC
+ Last Updated on 04/09/2026 21:00:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
