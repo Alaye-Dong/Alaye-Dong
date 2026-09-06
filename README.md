@@ -88,30 +88,30 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 35 mins       ██████████████░░░░░░░░░░░   55.71 % 
-Other                    2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-TOML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Markdown                 5 hrs 35 mins       █████████████░░░░░░░░░░░░   53.81 % 
+Other                    2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+TOML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 40 mins       ██████████████░░░░░░░░░░░   56.66 % 
-VS Code                  4 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.34 % 
+Codex Vscode             5 hrs 40 mins       ██████████████░░░░░░░░░░░   54.73 % 
+VS Code                  4 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.27 % 
 
 🐱‍💻 Projects: 
-xhs-comment-inspection   4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
-xhs-idea-strategy-agents 3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.50 % 
-users-alaye-projects-buxi33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-yingdao-work-os          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-manuscript-collection    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+xhs-comment-inspection   4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.21 % 
+xhs-idea-strategy-agents 3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
+users-alaye-projects-buxi33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+yingdao-work-os          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+manuscript-collection    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 8 mins (91.23%)
+⏱ AI Coding Time: 9 hrs 8 mins (88.11%)
 
-✍️ 1,590 lines written by AI, 131 lines written by hand (92.39% AI-written)
+✍️ 1,590 lines written by AI, 141 lines written by hand (91.85% AI-written)
 
 🔤 12,619,109 Input Tokens, 702,721 Output Tokens
 
@@ -124,10 +124,10 @@ Glm                      6 lines             ░░░░░░░░░░░�
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.39% of written lines came from AI
+🤖 AI-Driven — 91.85% of written lines came from AI
 📝 Concise Prompter — average 393 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.87% of changed lines were hand-edited
+🚀 High AI Trust — 8.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:39:52 UTC
+ Last Updated on 06/09/2026 20:44:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
