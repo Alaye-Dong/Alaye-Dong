@@ -43,11 +43,11 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C268%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C269%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -88,46 +88,46 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 39 mins       ██████████████░░░░░░░░░░░   54.95 % 
-Other                    2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-TOML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Markdown                 8 hrs 4 mins        ███████████████░░░░░░░░░░   61.75 % 
+Other                    2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+TOML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 33 mins       ██████████████░░░░░░░░░░░   54.04 % 
-VS Code                  4 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.96 % 
+Codex Vscode             7 hrs 38 mins       ███████████████░░░░░░░░░░   58.35 % 
+VS Code                  5 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.65 % 
 
 🐱‍💻 Projects: 
-xhs-comment-inspection   4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
-xhs-idea-strategy-agents 4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.90 % 
-users-alaye-projects-buxi33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-yingdao-work-os          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-agent-x20-in-https-www-xi11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+xhs-idea-strategy-agents 4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.38 % 
+xhs-comment-inspection   4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.79 % 
+xhs-trend-weekly-agent   2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+users-alaye-projects-buxi33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+yingdao-work-os          33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 3 mins (87.93%)
+⏱ AI Coding Time: 11 hrs 32 mins (88.14%)
 
-✍️ 1,392 lines written by AI, 141 lines written by hand (90.8% AI-written)
+✍️ 2,315 lines written by AI, 144 lines written by hand (94.14% AI-written)
 
-🔤 12,696,835 Input Tokens, 659,970 Output Tokens
+🔤 14,583,985 Input Tokens, 836,591 Output Tokens
 
-💵 $164.24 Estimated AI Cost This Week
+💵 $179.76 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 126 AI Prompts
+🧠 35 AI Sessions, 148 AI Prompts
 
-GPT                      1,387 lines         █████████████████████████   99.57 % 
-Glm                      6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+GPT                      2,236 lines         ████████████████████████░   96.55 % 
+Glm                      80 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.8% of written lines came from AI
-📝 Concise Prompter — average 395 characters per prompt
+🤖 AI-Driven — 94.14% of written lines came from AI
+📝 Concise Prompter — average 462 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 9.49% of changed lines were hand-edited
+🚀 High AI Trust — 6.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:45:49 UTC
+ Last Updated on 08/09/2026 21:23:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
