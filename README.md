@@ -88,32 +88,32 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 57 mins       ████████████████░░░░░░░░░   64.79 % 
-Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Markdown                 8 hrs 57 mins       █████████████████░░░░░░░░   67.04 % 
+Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 18 mins      ████████████████████░░░░░   81.74 % 
-Codex Vscode             2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+VS Code                  10 hrs 50 mins      ████████████████████░░░░░   81.11 % 
+Codex Vscode             2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
 Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-xhs-trend-weekly-agent   6 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.90 % 
-manuscript-collection    2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-yingdao-work-os          1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-xhs-profile-scraper      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-xhs-idea-strategy-agents 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+xhs-trend-weekly-agent   6 hrs 45 mins       █████████████░░░░░░░░░░░░   50.60 % 
+manuscript-collection    2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+yingdao-work-os          1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+xhs-profile-scraper      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+xhs-idea-strategy-agents 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 28 mins (82.97%)
+⏱ AI Coding Time: 11 hrs 28 mins (85.85%)
 
-✍️ 14,158 lines written by AI, 29 lines written by hand (99.8% AI-written)
+✍️ 14,158 lines written by AI, 19 lines written by hand (99.87% AI-written)
 
 🔤 8,331,426 Input Tokens, 1,317,223 Output Tokens
 
@@ -127,10 +127,10 @@ Glm                      74 lines            ░░░░░░░░░░░�
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
+🤖 AI-Driven — 99.87% of written lines came from AI
 📝 Concise Prompter — average 386 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.26% of changed lines were hand-edited
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +150,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:52:31 UTC
+ Last Updated on 13/09/2026 21:06:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
