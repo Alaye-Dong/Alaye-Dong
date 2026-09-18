@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C283%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C284%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -88,45 +88,47 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 35 mins       ███████████████████░░░░░░   75.44 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Markdown                 3 hrs 58 mins       ██████████████████░░░░░░░   73.33 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+JavaScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Image (svg)              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 23 mins       █████████████████████████   99.36 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🐱‍💻 Projects: 
-xhs-trend-weekly-agent   2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
-manuscript-collection    2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.24 % 
-yingdao-work-os          1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-wechat-analysis-agent    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-hatch-pet-users-alaye-cod12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+xhs-trend-weekly-agent   3 hrs 18 mins       ███████████████░░░░░░░░░░   61.00 % 
+wechat-analysis-agent    56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+manuscript-collection    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+yingdao-work-os          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+hatch-pet-users-alaye-cod12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 13 mins (83.93%)
+⏱ AI Coding Time: 4 hrs 10 mins (76.85%)
 
-✍️ 8,316 lines written by AI, 12 lines written by hand (99.86% AI-written)
+✍️ 3,530 lines written by AI, 11 lines written by hand (99.69% AI-written)
 
-🔤 5,019,458 Input Tokens, 759,801 Output Tokens
+🔤 4,775,865 Input Tokens, 434,000 Output Tokens
 
-💵 $531.84 Estimated AI Cost This Week
+💵 $168.99 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 74 AI Prompts
+🧠 18 AI Sessions, 57 AI Prompts
 
-Deepseek                 7,156 lines         █████████████████████░░░░   85.33 % 
-Glm                      1,230 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Glm                      1,786 lines         █████████████░░░░░░░░░░░░   50.58 % 
+Deepseek                 1,745 lines         ████████████░░░░░░░░░░░░░   49.42 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📄 Detailed Prompter — average 529 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
+🤖 AI-Driven — 99.69% of written lines came from AI
+📄 Detailed Prompter — average 585 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +148,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:40:43 UTC
+ Last Updated on 18/09/2026 21:11:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
