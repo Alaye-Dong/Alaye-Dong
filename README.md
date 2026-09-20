@@ -88,47 +88,47 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 58 mins       ██████████████████░░░░░░░   73.33 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-JavaScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Image (svg)              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Markdown                 5 hrs 9 mins        ███████████████████░░░░░░   75.98 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Image (svg)              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 23 mins       █████████████████████████   99.36 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+VS Code                  6 hrs 45 mins       █████████████████████████   99.49 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-xhs-trend-weekly-agent   3 hrs 18 mins       ███████████████░░░░░░░░░░   61.00 % 
-wechat-analysis-agent    56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-manuscript-collection    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-yingdao-work-os          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-hatch-pet-users-alaye-cod12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+xhs-trend-weekly-agent   4 hrs 29 mins       █████████████████░░░░░░░░   66.13 % 
+wechat-analysis-agent    56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+manuscript-collection    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+yingdao-work-os          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+hatch-pet-users-alaye-cod12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 10 mins (76.85%)
+⏱ AI Coding Time: 5 hrs 9 mins (75.83%)
 
-✍️ 3,530 lines written by AI, 11 lines written by hand (99.69% AI-written)
+✍️ 4,679 lines written by AI, 16 lines written by hand (99.66% AI-written)
 
-🔤 4,775,865 Input Tokens, 434,000 Output Tokens
+🔤 8,051,492 Input Tokens, 623,186 Output Tokens
 
-💵 $168.99 Estimated AI Cost This Week
+💵 $229.07 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 57 AI Prompts
+🧠 24 AI Sessions, 73 AI Prompts
 
-Glm                      1,786 lines         █████████████░░░░░░░░░░░░   50.58 % 
-Deepseek                 1,745 lines         ████████████░░░░░░░░░░░░░   49.42 % 
+Deepseek                 2,772 lines         ███████████████░░░░░░░░░░   59.09 % 
+Glm                      1,919 lines         ██████████░░░░░░░░░░░░░░░   40.91 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📄 Detailed Prompter — average 585 characters per prompt
+🤖 AI-Driven — 99.66% of written lines came from AI
+📄 Detailed Prompter — average 560 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.39% of changed lines were hand-edited
+🚀 High AI Trust — 0.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:58:48 UTC
+ Last Updated on 20/09/2026 21:03:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
