@@ -88,39 +88,39 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.02 % 
-Vue                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Python                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-TypeScript               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-JSON                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown                 8 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.47 % 
+Vue                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Python                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+TypeScript               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+JSON                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 13 mins      █████████████████████████   99.85 % 
+VS Code                  17 hrs 4 mins       █████████████████████████   99.85 % 
 Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-yingdao-work-os          7 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.08 % 
-nuwari                   4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-buxi_yunying             1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-blog-astro-fuwari        1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-manuscript-collection    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+yingdao-work-os          7 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
+nuwari                   4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+buxi_yunying             1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+blog-astro-fuwari        1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+manuscript-collection    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 20 mins (88.9%)
+⏱ AI Coding Time: 15 hrs 11 mins (88.8%)
 
-✍️ 18,525 lines written by AI, 328 lines written by hand (98.26% AI-written)
+✍️ 18,491 lines written by AI, 328 lines written by hand (98.26% AI-written)
 
-🔤 26,841,768 Input Tokens, 2,092,991 Output Tokens
+🔤 26,809,405 Input Tokens, 2,074,181 Output Tokens
 
-💵 $1606.82 Estimated AI Cost This Week
+💵 $1593.90 Estimated AI Cost This Week
 
-🧠 208 AI Sessions, 127 AI Prompts
+🧠 206 AI Sessions, 122 AI Prompts
 
-Deepseek                 18,927 lines        █████████████████████████   99.74 % 
+Deepseek                 18,893 lines        █████████████████████████   99.74 % 
 OMP                      50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -128,7 +128,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.26% of written lines came from AI
-📄 Detailed Prompter — average 944 characters per prompt
+📄 Detailed Prompter — average 982 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 1.95% of changed lines were hand-edited
 ```
@@ -150,7 +150,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:53:49 UTC
+ Last Updated on 02/10/2026 22:30:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
