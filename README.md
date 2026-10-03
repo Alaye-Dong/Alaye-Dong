@@ -47,7 +47,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -88,59 +88,56 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.47 % 
-Vue                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Python                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TypeScript               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-JSON                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Markdown                 8 hrs 27 mins       █████████████░░░░░░░░░░░░   52.09 % 
+Vue                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Python                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+TypeScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+JavaScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 4 mins       █████████████████████████   99.85 % 
-Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+VS Code                  16 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yingdao-work-os          7 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
-nuwari                   4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-buxi_yunying             1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-blog-astro-fuwari        1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-manuscript-collection    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+yingdao-work-os          7 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.78 % 
+nuwari                   4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+buxi_yunying             1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+manuscript-collection    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+blog-astro-fuwari        43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 11 mins (88.8%)
+⏱ AI Coding Time: 14 hrs 37 mins (90.08%)
 
-✍️ 18,491 lines written by AI, 328 lines written by hand (98.26% AI-written)
+✍️ 18,214 lines written by AI, 325 lines written by hand (98.25% AI-written)
 
-🔤 26,809,405 Input Tokens, 2,074,181 Output Tokens
+🔤 26,516,548 Input Tokens, 1,994,380 Output Tokens
 
-💵 $1593.90 Estimated AI Cost This Week
+💵 $1499.74 Estimated AI Cost This Week
 
-🧠 206 AI Sessions, 122 AI Prompts
+🧠 203 AI Sessions, 117 AI Prompts
 
-Deepseek                 18,893 lines        █████████████████████████   99.74 % 
-OMP                      50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Deepseek                 18,571 lines        █████████████████████████   99.73 % 
+OMP                      50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.26% of written lines came from AI
-📄 Detailed Prompter — average 982 characters per prompt
+🤖 AI-Driven — 98.25% of written lines came from AI
+📄 Detailed Prompter — average 1,013 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.95% of changed lines were hand-edited
+🚀 High AI Trust — 1.96% of changed lines were hand-edited
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in Java** 
 
 ```text
-Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -150,7 +147,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:30:54 UTC
+ Last Updated on 03/10/2026 21:42:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
