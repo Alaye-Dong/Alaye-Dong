@@ -88,46 +88,43 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 17 mins       █████████████░░░░░░░░░░░░   51.49 % 
-Python                   59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-JavaScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Markdown                 53 mins             ██████████░░░░░░░░░░░░░░░   38.83 % 
+JSON                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+TypeScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
+Codex Vscode             1 hr 25 mins        ████████████████░░░░░░░░░   62.17 % 
+VS Code                  52 mins             █████████░░░░░░░░░░░░░░░░   37.83 % 
 
 🐱‍💻 Projects: 
-yingdao-work-os          4 hrs 6 mins        ████████████████░░░░░░░░░   64.35 % 
-buxi_yunying             1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   30.79 % 
-xiu                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-xhs-comment-inspection   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-cha                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+buxi_yunying             1 hr 58 mins        █████████████████████░░░░   85.60 % 
+yingdao-work-os          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+xiu                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+buxi_PM                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 28 mins (85.63%)
+⏱ AI Coding Time: 1 hr 32 mins (66.69%)
 
-✍️ 5,159 lines written by AI, 143 lines written by hand (97.3% AI-written)
+✍️ 260 lines written by AI, 139 lines written by hand (65.16% AI-written)
 
-🔤 13,236,640 Input Tokens, 752,507 Output Tokens
+🔤 1,553,573 Input Tokens, 104,183 Output Tokens
 
-💵 $613.67 Estimated AI Cost This Week
+💵 $40.85 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 60 AI Prompts
+🧠 4 AI Sessions, 10 AI Prompts
 
-Deepseek                 5,397 lines         █████████████████████████   99.82 % 
-OMP                      10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 260 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.3% of written lines came from AI
-📄 Detailed Prompter — average 1,486 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 2.67% of changed lines were hand-edited
+⚖️ Balanced with AI — 65.16% of written lines came from AI
+📝 Concise Prompter — average 267 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 35.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -147,7 +144,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:18:03 UTC
+ Last Updated on 06/10/2026 22:47:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
