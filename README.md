@@ -88,43 +88,19 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 53 mins             ██████████░░░░░░░░░░░░░░░   38.83 % 
-JSON                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-TypeScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 25 mins        ████████████████░░░░░░░░░   62.17 % 
-VS Code                  52 mins             █████████░░░░░░░░░░░░░░░░   37.83 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-buxi_yunying             1 hr 58 mins        █████████████████████░░░░   85.60 % 
-yingdao-work-os          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-xiu                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-buxi_PM                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (66.69%)
-
-✍️ 260 lines written by AI, 139 lines written by hand (65.16% AI-written)
-
-🔤 1,553,573 Input Tokens, 104,183 Output Tokens
-
-💵 $40.85 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 10 AI Prompts
-
-DeepSeek                 260 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.16% of written lines came from AI
-📝 Concise Prompter — average 267 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 35.64% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -144,7 +120,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:47:49 UTC
+ Last Updated on 07/10/2026 23:18:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
