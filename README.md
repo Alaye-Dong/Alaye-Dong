@@ -88,19 +88,44 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   33.34 % 
+Markdown                 57 mins             ████████░░░░░░░░░░░░░░░░░   30.07 % 
+TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+JSON                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 56 mins       ███████████████████████░░   92.53 % 
+Codex Vscode             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+buxi-operations-panel    2 hrs 28 mins       ███████████████████░░░░░░   77.99 % 
+buxi_yunying             19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+xiu                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+buxi-operations-pannel   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+w-y                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 14 mins (7.47%)
+
+✍️ 0 lines written by AI, 206 lines written by hand (0.0% AI-written)
+
+🔤 104,432 Input Tokens, 858 Output Tokens
+
+💵 $1.14 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 3 AI Prompts
+
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 23 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -120,7 +145,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:18:53 UTC
+ Last Updated on 08/10/2026 23:33:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
