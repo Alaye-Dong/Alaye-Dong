@@ -43,11 +43,11 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C314%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C315%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -88,30 +88,30 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.63 % 
-Bash                     1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-TypeScript               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown                 2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.05 % 
+Bash                     1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+TypeScript               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        ████████████████████░░░░░   80.75 % 
-Codex Vscode             1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+VS Code                  5 hrs 22 mins       ████████████████████░░░░░   81.75 % 
+Codex Vscode             1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 
 🐱‍💻 Projects: 
-buxi-operations-panel    4 hrs 7 mins        █████████████████░░░░░░░░   66.11 % 
-xiu                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-buxi_PM                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-buxi_yunying             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-duo                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+buxi-operations-panel    4 hrs 28 mins       █████████████████░░░░░░░░   67.89 % 
+xiu                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+buxi_PM                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+buxi_yunying             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+duo                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (19.27%)
+⏱ AI Coding Time: 1 hr 12 mins (18.26%)
 
-✍️ 40 lines written by AI, 276 lines written by hand (12.66% AI-written)
+✍️ 40 lines written by AI, 278 lines written by hand (12.58% AI-written)
 
 🔤 1,554,165 Input Tokens, 110,894 Output Tokens
 
@@ -122,10 +122,10 @@ duo                      17 mins             █░░░░░░░░░░�
 DeepSeek                 40 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.66% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 12.58% of written lines came from AI
 📄 Detailed Prompter — average 586 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 88.98% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -145,7 +145,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 21:59:16 UTC
+ Last Updated on 11/10/2026 22:21:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
