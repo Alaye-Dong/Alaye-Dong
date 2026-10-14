@@ -43,7 +43,7 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%206%20mins-blue?style=flat)
 
@@ -88,44 +88,44 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
-Bash                     1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-TypeScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Markdown                 2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Bash                     2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 53 mins       █████████████████████░░░░   82.86 % 
-Codex Vscode             1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+VS Code                  8 hrs 13 mins       ████████████████████░░░░░   78.82 % 
+Codex Vscode             2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
 
 🐱‍💻 Projects: 
-buxi-operations-panel    4 hrs 51 mins       █████████████████░░░░░░░░   68.22 % 
-xiu                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-buxi_PM                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-buxi_yunying             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-duo                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+buxi-operations-panel    6 hrs 48 mins       ████████████████░░░░░░░░░   65.23 % 
+feishu-note-sync-web     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+xiu                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+buxi_PM                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+buxi_yunying             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (17.16%)
+⏱ AI Coding Time: 2 hrs 16 mins (21.82%)
 
-✍️ 40 lines written by AI, 302 lines written by hand (11.7% AI-written)
+✍️ 162 lines written by AI, 464 lines written by hand (25.88% AI-written)
 
-🔤 1,646,527 Input Tokens, 113,954 Output Tokens
+🔤 2,197,478 Input Tokens, 206,160 Output Tokens
 
-💵 $54.95 Estimated AI Cost This Week
+💵 $86.03 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 13 AI Prompts
+🧠 10 AI Sessions, 22 AI Prompts
 
-DeepSeek                 40 lines            █████████████████████████   100.00 % 
+DeepSeek                 162 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.7% of written lines came from AI
-📄 Detailed Prompter — average 545 characters per prompt
+🧑‍💻 Mostly Hands-On — 25.88% of written lines came from AI
+📄 Detailed Prompter — average 516 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 89.77% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 77.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -145,7 +145,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 23:04:02 UTC
+ Last Updated on 14/10/2026 21:56:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
