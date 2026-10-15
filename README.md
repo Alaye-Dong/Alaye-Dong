@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C319%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-335%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,44 +88,44 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Bash                     2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Markdown                 2 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.80 % 
+Bash                     1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+YAML                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Docker                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 13 mins       ████████████████████░░░░░   78.82 % 
-Codex Vscode             2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+VS Code                  6 hrs 10 mins       ███████████████████░░░░░░   75.06 % 
+Codex Vscode             2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
 
 🐱‍💻 Projects: 
-buxi-operations-panel    6 hrs 48 mins       ████████████████░░░░░░░░░   65.23 % 
-feishu-note-sync-web     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-xiu                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-buxi_PM                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-buxi_yunying             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+buxi-operations-panel    5 hrs 2 mins        ███████████████░░░░░░░░░░   61.21 % 
+feishu-note-sync-web     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+xiu                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+buxi_PM                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+bi-a                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 16 mins (21.82%)
+⏱ AI Coding Time: 2 hrs 7 mins (25.76%)
 
-✍️ 162 lines written by AI, 464 lines written by hand (25.88% AI-written)
+✍️ 162 lines written by AI, 259 lines written by hand (38.48% AI-written)
 
-🔤 2,197,478 Input Tokens, 206,160 Output Tokens
+🔤 2,093,046 Input Tokens, 205,302 Output Tokens
 
-💵 $86.03 Estimated AI Cost This Week
+💵 $84.88 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 22 AI Prompts
+🧠 7 AI Sessions, 19 AI Prompts
 
 DeepSeek                 162 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.88% of written lines came from AI
-📄 Detailed Prompter — average 516 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 77.37% of changed lines were hand-edited
+⚖️ Balanced with AI — 38.48% of written lines came from AI
+📄 Detailed Prompter — average 594 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 65.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -145,7 +145,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:56:22 UTC
+ Last Updated on 15/10/2026 21:42:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
