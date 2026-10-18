@@ -88,44 +88,44 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-Bash                     1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-YAML                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Other                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Docker                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Markdown                 1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Bash                     1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Other                    1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+YAML                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Docker                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        ██████████████████░░░░░░░   71.15 % 
-Codex Vscode             1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+VS Code                  3 hrs 44 mins       ████████████████░░░░░░░░░   64.86 % 
+Codex Vscode             2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.14 % 
 
 🐱‍💻 Projects: 
-buxi-operations-panel    3 hrs 23 mins       ███████████████░░░░░░░░░░   59.18 % 
-feishu-note-sync-web     1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-shi                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-bi-a                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-cha                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+buxi-operations-panel    3 hrs 2 mins        █████████████░░░░░░░░░░░░   52.94 % 
+feishu-note-sync-web     1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+shi                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+bi-a                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+xu                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (30.01%)
+⏱ AI Coding Time: 2 hrs 5 mins (36.29%)
 
-✍️ 122 lines written by AI, 189 lines written by hand (39.23% AI-written)
+✍️ 122 lines written by AI, 187 lines written by hand (39.48% AI-written)
 
-🔤 799,552 Input Tokens, 132,564 Output Tokens
+🔤 916,051 Input Tokens, 164,545 Output Tokens
 
-💵 $40.22 Estimated AI Cost This Week
+💵 $55.53 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 16 AI Prompts
+🧠 7 AI Sessions, 18 AI Prompts
 
 DeepSeek                 122 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.23% of written lines came from AI
-📝 Concise Prompter — average 324 characters per prompt
+⚖️ Balanced with AI — 39.48% of written lines came from AI
+📝 Concise Prompter — average 359 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 65.63% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 65.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -145,7 +145,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:53:24 UTC
+ Last Updated on 18/10/2026 21:00:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
