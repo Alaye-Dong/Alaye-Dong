@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C321%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C321%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,28 +88,28 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 20 mins        █████████████░░░░░░░░░░░░   53.46 % 
-Other                    1 hr 3 mins         ███████████░░░░░░░░░░░░░░   42.19 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    1 hr 2 mins         ██████████████░░░░░░░░░░░   57.35 % 
+Markdown                 29 mins             ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        ████████████████░░░░░░░░░   62.10 % 
-Codex Vscode             56 mins             █████████░░░░░░░░░░░░░░░░   37.90 % 
+Codex Vscode             56 mins             █████████████░░░░░░░░░░░░   51.93 % 
+VS Code                  52 mins             ████████████░░░░░░░░░░░░░   48.07 % 
 
 🐱‍💻 Projects: 
-buxi-operations-panel    43 mins             ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-shi                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-feishu-note-sync-web     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Automa                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-xu                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Automa                   33 mins             ████████░░░░░░░░░░░░░░░░░   30.88 % 
+shi                      27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+xu                       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+dsh-oh-my-dsh-oh-my      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+feishu-note-sync-web     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (44.05%)
+⏱ AI Coding Time: 1 hr 6 mins (60.36%)
 
 ✍️ 0 lines written by AI, 37 lines written by hand (0.0% AI-written)
 
@@ -145,7 +145,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:56:43 UTC
+ Last Updated on 22/10/2026 21:54:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
