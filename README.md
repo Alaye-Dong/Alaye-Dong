@@ -47,7 +47,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,11 +55,11 @@
 
 > 📦 160.1 kB Used in GitHub's Storage 
  > 
-> 🏆 468 Contributions in the Year 2026
+> 🏆 469 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -88,42 +88,42 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 55 mins       █████████████░░░░░░░░░░░░   52.93 % 
-Markdown                 1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Python                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Other                    2 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.14 % 
+Markdown                 1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 26 mins       ██████████████████░░░░░░░   73.37 % 
-VS Code                  1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Codex Vscode             3 hrs 1 min         ██████████████░░░░░░░░░░░   56.20 % 
+VS Code                  2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.80 % 
 
 🐱‍💻 Projects: 
-feishu-note-sync-web     5 hrs 34 mins       ███████████████████░░░░░░   75.29 % 
-Automa                   1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-buxi_PM                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-dsh-oh-my-dsh-oh-my      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-yingdao-work-os          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+feishu-note-sync-web     1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   37.03 % 
+Automa                   1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   30.41 % 
+yingdao-work-os          1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+buxi_PM                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+dsh-oh-my-dsh-oh-my      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 46 mins (77.87%)
+⏱ AI Coding Time: 3 hrs 53 mins (72.34%)
 
 ✍️ 0 lines written by AI, 48 lines written by hand (0.0% AI-written)
 
-🔤 2,730,890 Input Tokens, 504,838 Output Tokens
+🔤 3,136,074 Input Tokens, 405,816 Output Tokens
 
-💵 $471.97 Estimated AI Cost This Week
+💵 $292.73 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 21 AI Prompts
+🧠 10 AI Sessions, 23 AI Prompts
 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 322 characters per prompt
+📄 Detailed Prompter — average 991 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -145,7 +145,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:09:38 UTC
+ Last Updated on 26/10/2026 22:52:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
