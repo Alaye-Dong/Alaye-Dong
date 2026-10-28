@@ -43,9 +43,9 @@
   <summary><b> ⌚ My WakaTime Stats </b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C322%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C322%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -88,43 +88,43 @@ Sunday                   346 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 48 mins        ████████████░░░░░░░░░░░░░   49.60 % 
-Markdown                 1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Markdown                 2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.76 % 
+Other                    1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+Bash                     1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+TypeScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       ████████████████░░░░░░░░░   62.41 % 
-Codex Vscode             1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   37.59 % 
+VS Code                  5 hrs 2 mins        ████████████████████░░░░░   78.79 % 
+Codex Vscode             1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
 
 🐱‍💻 Projects: 
-Automa                   1 hr 39 mins        ███████████░░░░░░░░░░░░░░   45.16 % 
-yingdao-work-os          1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-buxi_PM                  26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-feishu-note-sync-web     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-dsh-oh-my-dsh-oh-my      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+soybean-nest-starter     2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.34 % 
+Automa                   1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+yingdao-work-os          1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+buxi-operations-panel    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+buxi_PM                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (61.33%)
+⏱ AI Coding Time: 2 hrs 7 mins (33.22%)
 
-✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 196 lines written by hand (0.0% AI-written)
 
-🔤 2,397,637 Input Tokens, 256,860 Output Tokens
+🔤 1,992,183 Input Tokens, 246,986 Output Tokens
 
-💵 $119.55 Estimated AI Cost This Week
+💵 $112.83 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 20 AI Prompts
+🧠 6 AI Sessions, 16 AI Prompts
 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,093 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,351 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -145,7 +145,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alaye-Dong/Alaye-Dong/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:33:26 UTC
+ Last Updated on 28/10/2026 22:49:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
