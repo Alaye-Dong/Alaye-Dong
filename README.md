@@ -9,8 +9,8 @@
 - 📰 My blog site: **https://blog.alayedong.cn**
 
 <!--
-[![Alaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaye-Dong&custom_title=Alaye%20Dong`s%20GitHub%20stats&show_icons=true&rank_icon=percentile&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaye-Dong\&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Alaye's GitHub stats](https://github-stats-extended-self-host.vercel.app/api?username=Alaye-Dong&custom_title=Alaye%20Dong`s%20GitHub%20stats&show_icons=true&rank_icon=percentile&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-stats-extended-self-host.vercel.app/api/top-langs/?username=Alaye-Dong\&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-self-host.vercel.app/api?username=Alaye-Dong&custom_title=Alaye%20Dong`s%20GitHub%20stats&show_icons=true&rank_icon=percentile&theme=transparent&include_all_commits=true&count_private=true" />
